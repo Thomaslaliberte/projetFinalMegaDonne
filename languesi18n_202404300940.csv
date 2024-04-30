@@ -1,0 +1,84 @@
+"id","identifiantUnique","nom"
+1,af,Afrikaans
+2,am,Amharique
+5,ar,Arabe
+6,as,Assamais
+7,az,Azerbaïdjanais
+8,be,Biélorusse
+9,bg,Bulgare
+10,bn,Bengali
+11,bs,Bosniaque
+12,ca,Catalan
+13,cs,Tchèque
+14,da,Danois
+15,de,Allemand
+16,el,Grec
+17,en-GB,Anglais (Royaume-Uni)
+18,en-IN,Anglais (Inde)
+19,en,Anglais
+20,es,Espagnol
+21,es-419,Espagnol (Amérique latine)
+22,es-US,Espagnol (États-Unis)
+23,et,Estonien
+24,eu,Basque
+25,fa,Persan
+26,fi,Finnois
+27,fil,Filipino
+28,fr-CA,Français (Canada)
+29,fr,Français
+30,gl,Galicien
+31,gu,Gujarati
+32,hi,Hindi
+33,hr,Croate
+34,hu,Hongrois
+35,hy,Arménien
+36,id,Indonésien
+37,is,Islandais
+38,it,Italien
+39,iw,Hébreu
+40,ja,Japonais
+41,ka,Géorgien
+42,kk,Kazakh
+43,km,Khmer
+44,kn,Kannada
+45,ko,Coréen
+46,ky,Kirghize
+47,lo,Lao
+48,lt,Lituanien
+49,lv,Letton
+50,mk,Macédonien
+51,ml,Malayalam
+52,mn,Mongol
+53,mr,Marathe
+54,ms,Malais
+55,my,Birman
+56,no,Norvégien
+57,ne,Népalais
+58,nl,Néerlandais
+59,or,Odia
+60,pa,Pendjabi
+61,pl,Polonais
+62,pt,Portugais
+63,pt-PT,Portugais (Portugal)
+64,ro,Roumain
+65,ru,Russe
+66,si,Cingalais
+67,sk,Slovaque
+68,sl,Slovène
+69,sq,Albanais
+70,sr-Latn,Serbe (latin)
+71,sr,Serbe
+72,sv,Suédois
+73,sw,Swahili
+74,ta,Tamoul
+75,te,Télougou
+76,th,Thaï
+77,tr,Turc
+78,uk,Ukrainien
+79,ur,Ourdou
+80,uz,Ouzbek
+81,vi,Vietnamien
+82,zh-CN,Chinois (Chine)
+83,zh-HK,Chinois (Hong Kong)
+84,zh-TW,Chinois (Taïwan)
+85,zu,Zoulou
